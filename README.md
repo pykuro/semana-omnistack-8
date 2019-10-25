@@ -1,1 +1,1 @@
-# semana-omnistack-8
+Tinder para desenvolvedores com GitHub
